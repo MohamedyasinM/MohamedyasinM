@@ -16,9 +16,9 @@
 > Innovative SaaS platforms, automation tools, and open-source projects that challenge the norm.
 
 ### 📫 How to reach me ...
-📧 [mohamedyasin.dev@gmail.com](mailto:mohamedyasin.dev@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/mohamedyasinm)  
-💻 [GitHub](https://github.com/MohamedyasinM)
+📧 [mohamedyasin.dev@gmail.com](mailto:mohamedyasin.m17@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-yasin-m17/)  
+💻 [Personal Portfolio](https://mohamedyasinm.github.io/Yasin-Portfolio/)
 
 ### 😄 Pronouns:
 > He/Him
